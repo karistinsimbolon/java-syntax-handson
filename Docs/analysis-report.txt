@@ -1,0 +1,12 @@
+1. Analisis Error
+int 2number = 10-->angka 2 setelah number dan Number.
+String first name = "Budi";-->String firstName="Budi"
+boolean is Active = true;-->boolean isActive=true;
+double nilai rata = 85.5;-->double nilaiRata=85.5;
+
+2.Nama variabel harus jelas dan sesuai aturan Java (camelCase), misalnya: nilaiTugas, nilaiUTS, nilaiUAS.
+, angka bobot kayak 0.3 dan 0.4 bisa dibuat jadi konstanta
+  misalnya BOBOT_TUGAS = 0.3 biar gampang dibaca.
+3 -Konversi nilai ke skala 4.0 ada, pakai switch-case.
+  - Status kelulusan ada, otomatis kasih "LULUS" kalau nilai akhir ≥ 60.
+  - Validasi input ada, jadi program lebih aman.
