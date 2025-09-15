@@ -1,0 +1,27 @@
+!analysis-report.txt
+
+1.Task1:
+ [Analisis Error
+-int 2number = 10-->angka 2 setelah number dan Number.
+-String first name = "Budi";-->String firstName="Budi"
+-boolean is Active = true;-->boolean isActive=true;
+-double nilai rata = 85.5;-->double nilaiRata=85.5;
+-Variabel lain belum dibuat sesuai aturan penamaan]
+
+2.Task2:
+[-Belum eksplorasi tipe data lain
+-Operasi matematika belum diimplemaentasikan]
+
+3.Task3:
+[-Belum ada 3 skenario tambahan untuk data loss
+-Escape sequence nya salah
+-Belum ada eksperimen tambahan sesuai TODO]
+
+4.Task4:
+[-Input tambahan (semster,jurusan,tahun masuk) belum ditambahkan
+-Case 2 dan 3 belum diimplementasikan (celsius-fahrenheit, rupiah-dollar)]
+
+[5.Task5:
+-Escape sequence salah
+-Belum ada validasi input (0-100)
+-Fitur konversi skala 4.0 dan status kelulusan belum ditambahkkan]
